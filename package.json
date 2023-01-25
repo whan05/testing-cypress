@@ -1,0 +1,22 @@
+{
+  "name": "testing-cypress",
+  "version": "1.0.0",
+  "description": "Aprendiendo Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whan05/testing-cypress.git"
+  },
+  "author": "Whanderley Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whan05/testing-cypress/issues"
+  },
+  "homepage": "https://github.com/whan05/testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
